@@ -91,4 +91,3 @@ const initialBalance = 1000;
 - Focus on functionality over styling
 - Use any state management approach you prefer
 - TypeScript is set up but use is optional
-- Basic video player is provided

@@ -1,0 +1,119 @@
+[
+  {
+    "id": "1",
+    "url": "https://videos.pexels.com/video-files/4678261/4678261-hd_1080_1920_25fps.mp4",
+    "betTriggerTime": 5,
+    "options": {
+      "a": { "text": "Score", "odds": 1.5 },
+      "b": { "text": "Miss", "odds": 2.0 }
+    }
+  },
+  {
+    "id": "2",
+    "url": "https://videos.pexels.com/video-files/4434242/4434242-uhd_1440_2560_24fps.mp4",
+    "betTriggerTime": 3,
+    "options": {
+      "a": { "text": "Win", "odds": 1.8 },
+      "b": { "text": "Lose", "odds": 1.6 }
+    }
+  },
+  {
+    "id": "3",
+    "url": "https://videos.pexels.com/video-files/4434150/4434150-hd_1080_1920_30fps.mp4",
+    "betTriggerTime": 4,
+    "options": {
+      "a": { "text": "Hit", "odds": 1.7 },
+      "b": { "text": "Miss", "odds": 2.1 }
+    }
+  },
+  {
+    "id": "4",
+    "url": "https://videos.pexels.com/video-files/6010489/6010489-uhd_1440_2560_25fps.mp4",
+    "betTriggerTime": 6,
+    "options": {
+      "a": { "text": "Win", "odds": 1.9 },
+      "b": { "text": "Lose", "odds": 1.5 }
+    }
+  },
+  {
+    "id": "5",
+    "url": "https://videos.pexels.com/video-files/2785536/2785536-uhd_1440_2560_25fps.mp4",
+    "betTriggerTime": 2,
+    "options": {
+      "a": { "text": "Goal", "odds": 1.6 },
+      "b": { "text": "No Goal", "odds": 2.2 }
+    }
+  },
+  {
+    "id": "6",
+    "url": "https://videos.pexels.com/video-files/4434286/4434286-hd_1080_1920_30fps.mp4",
+    "betTriggerTime": 7,
+    "options": {
+      "a": { "text": "Option A", "odds": 1.4 },
+      "b": { "text": "Option B", "odds": 2.3 }
+    }
+  },
+  {
+    "id": "7",
+    "url": "https://videos.pexels.com/video-files/3959544/3959544-uhd_1440_2732_25fps.mp4",
+    "betTriggerTime": 6,
+    "options": {
+      "a": { "text": "Choice A", "odds": 1.2 },
+      "b": { "text": "Choice B", "odds": 2.5 }
+    }
+  },
+  {
+    "id": "8",
+    "url": "https://videos.pexels.com/video-files/4065943/4065943-uhd_1440_2732_25fps.mp4",
+    "betTriggerTime": 4,
+    "options": {
+      "a": { "text": "Pick A", "odds": 1.3 },
+      "b": { "text": "Pick B", "odds": 2.1 }
+    }
+  },
+  {
+    "id": "9",
+    "url": "https://videos.pexels.com/video-files/4040354/4040354-uhd_1440_2560_30fps.mp4",
+    "betTriggerTime": 5,
+    "options": {
+      "a": { "text": "Select A", "odds": 1.5 },
+      "b": { "text": "Select B", "odds": 2.0 }
+    }
+  },
+  {
+    "id": "10",
+    "url": "https://videos.pexels.com/video-files/5829173/5829173-uhd_1440_2560_24fps.mp4",
+    "betTriggerTime": 4,
+    "options": {
+      "a": { "text": "Vote A", "odds": 1.6 },
+      "b": { "text": "Vote B", "odds": 1.9 }
+    }
+  },
+  {
+    "id": "11",
+    "url": "https://videos.pexels.com/video-files/4816957/4816957-hd_1080_1920_25fps.mp4",
+    "betTriggerTime": 5,
+    "options": {
+      "a": { "text": "Choice C", "odds": 1.8 },
+      "b": { "text": "Choice D", "odds": 2.2 }
+    }
+  },
+  {
+    "id": "12",
+    "url": "https://videos.pexels.com/video-files/4057150/4057150-uhd_1440_2732_25fps.mp4",
+    "betTriggerTime": 3,
+    "options": {
+      "a": { "text": "Choice E", "odds": 1.1 },
+      "b": { "text": "Choice F", "odds": 2.3 }
+    }
+  },
+  {
+    "id": "13",
+    "url": "https://videos.pexels.com/video-files/4038571/4038571-uhd_1440_2732_25fps.mp4",
+    "betTriggerTime": 6,
+    "options": {
+      "a": { "text": "Option G", "odds": 1.2 },
+      "b": { "text": "Options H", "odds": 2.0 }
+    }
+  }
+]

@@ -4,28 +4,7 @@ import React, { useState } from 'react';
 import { Video, UserState } from './types';
 import VideoPlayer from './components/VideoPlayer';
 import BettingOverlay from './components/BettingOverlay';
-
-// Mock data - videos with real URLs for testing
-const videos: Video[] = [
-  {
-    id: '1',
-    url: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4',
-    betTriggerTime: 5,
-    options: {
-      a: { text: 'Score', odds: 1.5 },
-      b: { text: 'Miss', odds: 2.0 }
-    }
-  },
-  {
-    id: '2',
-    url: 'https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4',
-    betTriggerTime: 3,
-    options: {
-      a: { text: 'Win', odds: 1.8 },
-      b: { text: 'Lose', odds: 1.6 }
-    }
-  }
-];
+import videos from './videos.json'; // Importing the new video data
 
 // Initial user state
 const initialUserState: UserState = {
