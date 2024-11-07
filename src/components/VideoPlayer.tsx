@@ -29,10 +29,10 @@ const VideoPlayer: React.FC<VideoPlayerProps> = ({
   return (
     <div className="relative w-full h-full">
       {/* TODO: Implement video element */}
-      <video
+      {/* <video
         src={video.url}
-        className="w-full h-full object-cover"
-      />
+        className="w-full h-full object-contain"
+      /> */}
       
       {/* TODO: Implement video controls
           Requirements:

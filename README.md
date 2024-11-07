@@ -1,6 +1,8 @@
 # Video Feed Betting Challenge
 
-## What to Build
+> **Note:** To get started, please open this project in a sandbox environment like [CodeSandbox](https://codesandbox.io/s/github/SwipeGames/hr-test-frontend) or [Replit](https://replit.com/github/SwipeGames/hr-test-frontend).
+
+## Project Overview
 Create a vertical video feed (like TikTok) where users can place bets at specific moments during video playback.
 
 ## Core Features
